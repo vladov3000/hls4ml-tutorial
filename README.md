@@ -14,4 +14,4 @@ python setup_kernel.py
 
 The tutorial was tested with `hls4ml` master [@e9d0576](https://github.com/hls-fpga-machine-learning/hls4ml/tree/e9d0576) and `qkeras` master [@a1fb541](https://github.com/google/qkeras/tree/a1fb541)
 
-Run on Ubuntu 18.04.5 with Vivado Design Suite
+Ran on Ubuntu 18.04.5 with Vivado Design Suite
