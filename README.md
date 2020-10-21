@@ -13,3 +13,12 @@ python setup_kernel.py
 ```
 
 The tutorial was tested with `hls4ml` master [@e9d0576](https://github.com/hls-fpga-machine-learning/hls4ml/tree/e9d0576) and `qkeras` master [@a1fb541](https://github.com/google/qkeras/tree/a1fb541)
+
+ERROR: [HLS 200-70] Part 'xcku115-flvb2104-2-i' is not installed.
+command 'ap_source' returned error code
+    while executing
+"source build_prj.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel \#0 [list source $arg] "
+
